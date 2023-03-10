@@ -25,4 +25,6 @@ Load up the website from the link below. You'll be taken to the landing page tha
 How to get in contact with me:
 * Github: https://github.com/epalma98
 * Github Repo: https://github.com/Epalma98/Note-Taker-Express 
+* Heroku Webpage: https://note-taker-palma.herokuapp.com/  <!-- Only loads the landing page -->
+* Github Deployed URL: 
 
