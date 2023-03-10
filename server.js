@@ -14,17 +14,14 @@ app.use(express.static('public'));
 app.get('/notes', (req, res) => {
   res.sendFile(path.join(__dirname, '/public/notes.html'))
 });
-
-app.get('*', (req, res) => {
-    res.sendFile(path.json(__dirname, '/public/index.html'))
-})
-
-// API routes
+// api routes
 app.get('/api/notes', (req, res) => {
   res.sendFile(path.join(__dirname, '/db/notes.json'));
 });
 
-app.post('/api/notes')
+app.get('*', (req, res) => {
+    res.sendFile(path.json(__dirname, '/public/index.html'))
+})
 
 app.listen(process.env.PORT || 3001, function(){
   console.log("Express server listening on port %d in %s mode", this.address().port, app.settings.env);
