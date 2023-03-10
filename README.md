@@ -18,13 +18,11 @@ Load up the website from the link below. You'll be taken to the landing page tha
 
 ## Screenshots
 
-![Screenshot](/images/user_input_logo.png) "User inputs for svg logo"
-![Screenshot](/images/generated_message.png) "Success message"
-![Screenshot](/images/svg_file.png) "Generated svg file"
-![Screenshot](/images/svg_logo.png) "Generated svg logo"
+![Screenshot](/images/note_taker_LP.png) "Note Taker Landing Page"
+![Screenshot](/images/note_taker.png) "Note Taker Webpage"
 
 ## Questions
 How to get in contact with me:
 * Github: https://github.com/epalma98
-* Github Repo: https://github.com/Epalma98/logo-generator 
-* Video Walkthrough: https://drive.google.com/file/d/1IHgwpQAIeQPoYXWlEqqBaS3PbZTv1qva/view?usp=sharing 
+* Github Repo: https://github.com/Epalma98/Note-Taker-Express 
+
